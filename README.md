@@ -1,9 +1,6 @@
 # flutter_graphql
-![Screenshot_1659607417](https://user-images.githubusercontent.com/20137401/182821194-1014d2e1-ed10-4b34-8949-5ebac211974b.png)
+![Screenshot_1659607417](https://user-images.githubusercontent.com/20137401/182821194-1014d2e1-ed10-4b34-8949-5ebac211974b.png) ![Screenshot_1659607422](https://user-images.githubusercontent.com/20137401/182821230-b3e7503d-d882-4883-9223-06413ddcc417.png) ![Screenshot_1659607426](https://user-images.githubusercontent.com/20137401/182821292-620fd425-795b-465b-ae7e-918b454641c1.png)
 
-![Screenshot_1659607422](https://user-images.githubusercontent.com/20137401/182821230-b3e7503d-d882-4883-9223-06413ddcc417.png)
-
-![Screenshot_1659607426](https://user-images.githubusercontent.com/20137401/182821292-620fd425-795b-465b-ae7e-918b454641c1.png)
 
 A new Flutter project.
 
