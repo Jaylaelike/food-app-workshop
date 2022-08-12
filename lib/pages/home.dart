@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
       body: Query(
         options: QueryOptions(
           document: gql(readAllRecipes),
-          pollInterval: Duration(seconds: 5),
+         // pollInterval: Duration(seconds: 5),
         ),
         builder: (result, {fetchMore, refetch}) {
           //hase
