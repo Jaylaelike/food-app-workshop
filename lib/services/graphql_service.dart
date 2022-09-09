@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:graphql/client.dart';
 
 class GraphQLServices {
-  static String baseUrl = "https://c85e-171-6-230-222.ap.ngrok.io";
+  static String baseUrl = "https://9df2-171-6-230-222.ap.ngrok.io";
   static HttpLink httpLink = HttpLink(
     baseUrl + "/graphql",
   );
